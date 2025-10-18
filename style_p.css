@@ -1,0 +1,26 @@
+body {
+	background-image:url('https://static.wikia.nocookie.net/plantsvszombies/images/d/d5/Almanac_GroundDay.jpg/revision/latest?cb=20110401045624.jpg')
+ }
+ #container {
+	display: block;
+	background-color: lightyellow;
+	margin: 50px auto;
+	max-width: 1200px;
+	border: 3px groove brown;
+	text-align: center;
+	padding: 70px;
+	font-family: comic sans ms;
+	color: darkgreen;
+	-webkit-text-stroke-width: 0.5px;
+	-webkit-text-stroke-color: black;
+ }
+ #container img {
+	margin-top: 30px;
+ }
+ #container p {
+	margin-bottom: 30px;
+ }
+ a {
+	color: purple;
+	font-size: 20px;
+ }

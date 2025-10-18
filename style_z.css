@@ -1,0 +1,26 @@
+body {
+    background-image: url(imagens/night_bg.jpg); 
+}
+#container {
+	display: block;
+	background-color: darkgray;
+	margin: 50px auto;
+	max-width: 1200px;
+	border: 3px groove gray;
+	text-align: center;
+	padding: 70px;
+	font-family: comic sans ms;
+	color: purple;
+	-webkit-text-stroke-width: 0.5px;
+	-webkit-text-stroke-color: black;
+ }
+ #container img {
+	margin-top: 30px;
+ }
+ #container p {
+	margin-bottom: 30px;
+ }
+ a {
+    color: green;
+    font-size: 20px;
+ }
