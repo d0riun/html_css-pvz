@@ -5,7 +5,11 @@ body {
 	display: block;
 	background-color: lightyellow;
 	margin: 50px auto;
+<<<<<<< HEAD
 	max-width: 750px;
+=======
+	max-width: 1200px;
+>>>>>>> d52239d (pv6)
 	border: 3px groove brown;
 	text-align: center;
 	padding: 70px;
